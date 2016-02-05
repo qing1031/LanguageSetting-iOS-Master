@@ -1,0 +1,634 @@
+/* 
+  Localizable.strings
+  cs74cms
+
+  Created by 140 on 16/1/14.
+  Copyright © 2016年 XunYi Science and Technology Co.,Ltd. All rights reserved.
+*/
+//
+"确定" = "Done";
+
+//RootViewController.m
+"请输入关键字..." = "Please type in key words";
+"职位搜索" = "Job search";
+"搜索简历" = "Search resume";
+"招聘会" = "Job fair";
+"微商圈" = "Micro CV&job";
+"新闻资讯" = "News";
+"更多" = "More";
+"会员中心" = "Member Center";
+"首页" = "Hompage";
+
+//SearchViewController.m
+"搜索" = "Search";
+"搜职位" = "Jobs";
+"热门搜索:" = "Hot search：";
+"搜简历" = "Resume";
+
+//ShakeViewController.m
+"无法获取您的位置！" = "Could not get your location!";
+
+//AboutUsViewController.m
+"关于我们" = "About us";
+"欢迎页" = "Welcome page";
+"网站介绍" = "Web site introduction";
+"客服电话" = "Customer service tel";
+"官方网站" = "Official website";
+
+//FeekbackViewController.m
+"用户反馈" = "User feedback";
+"反馈类型:" = "Type：";
+"意见" = "Opinion";
+"建议" = "Suggest";
+"求助" = "Help";
+"投诉" = "Complaint";
+"请输入您的反馈意见(200字以内)" = "Please enter your feedback (200 words or less)";
+"联系方式:" = "Contact";
+"请输入您的联系方式" = "Please enter your contact information";
+"提交" = "Submit";
+"请选择反馈类型" = "Please select the type of feedback";
+"反馈内容不能为空" = "Feedback content can not be empty";
+"联系方式不能为空" = "Contact can not be empty";
+"反馈成功！" = "Feedback success!";
+"反馈失败" = "Feedback failure";
+
+//IntroduceViewController.m
+"骑士人才系统" = "Knight talent system";
+"太原迅易科技发展" = "Taiyuan Xun Yi science and technology development";
+
+//MoreCenterViewController.m
+"摇一摇" = "Shake";
+"推送设置" = "Push setting";
+"更换皮肤" = "Change skin";
+"清除缓存" = "Clear cache";
+"缓存清理成功！" = "cache cleanup success!";
+
+//PushSetViewController.m
+"推送通知" = "Push notifications";
+"打开该功能,系统将接收推送消息" = "Open the function, the system will receive push messages";
+
+//SkinViewController.m
+"默认" = "default";
+"蓝色" = "blue";
+
+//JobListViewController.m
+"列表" = "list";
+
+//NewsViewController.m
+"资讯详情" = "Information details";
+"新闻分类" = "News classification";
+
+//RecruitmentDetailViewController.m
+"招聘会详情" = "Recruitment details";
+"举办范围：" = "Holding range:";
+"举办地点：" = "Holding place:";
+"  招聘会介绍" = "Recruitment meeting introduce";
+"  参会行业" = "Participating introduce";
+"  联系方式" = "Contact information";
+"联系人：" = "Contacts:";
+"2015年4月1日" = "April 1, 2015";
+"联系电话：" = "Contact:";
+
+//RecruitmentViewController.m
+"时间范围" = "Time frame";
+"今天" = "Today";
+"近三天" = "In 3 days";
+"近两周" = "In 2 weeks";
+"近一月" = "In one month";
+"近两月" = "In 2 months";
+"已举行" = "Expired";
+
+//MapSearchViewController.m
+"地图搜索" = "Search by map";
+"行业选择" = "Industry choice";
+"职能选择" = "Function selection";
+"发布日期" = "Release date";
+"所有行业" = "All industry";
+"所有职能" = "All functions";
+"所有日期" = "All date";
+"行业" = "Industry";
+"职能" = "Function";
+"近一周" = "In one week";
+"近半月" = "In half month";
+"      中心位置:%@" = "Center location:%@";
+
+//FindResumeViewController.m
+"应聘简历" = "Resume";
+"搜索职位" = "Search for jobs";
+"求职状态" = "Job status";
+"学历要求" = "Education requirements";
+"工作经验" = "Work experience";
+"应聘职位" = "Apply for position";
+"简历备注" = "Resume notes";
+"薪资待遇" = "Salary";
+"应聘:%@" = "Apply for:%@";
+"上拉显示更多数据" = "Pull up display more data";
+
+//SearchResumeViewController.m
+"意向地区" = "Intentional area";
+"意向职位" = "Intentional position";
+"学历" = "Education";
+"地区" = "Area";
+"行业" = "Position";
+"职能" = "Function";
+"更新日期" = "Update date";
+"近期搜索记录" = "Recent search records";
+"清空搜索记录" = "Empty search records";
+"暂无历史搜索记录" = "No search history records";
+"清空历史搜索记录成功！" = "Clear history search record success!";
+
+//MapBigViewController.m
+"地图定位" = "Map location";
+"职位列表" = "Position list";
+"您的位置" = "Your location";
+"所在位置" = "Seat position";
+
+//OtherRegisterViewController.m
+"完善注册信息" = "Improve registration information";
+"请选择会员类型" = "Please select member type";
+"请输入常用邮箱" = "Please enter a email";
+"请输入手机号" = "Please enter phone number";
+"请输入密码" = "Please enter a password";
+"保存" = "Save";
+"已有账号,立即绑定>>" = "Existing account, immediate binding";
+"企业会员" = "Enterprise member";
+"个人会员" = "Individual member";
+
+//ContectUserViewController.m
+"账号绑定" = "Account binding";
+"请输入用户名" = "Please enter a user name";
+"立即绑定" = "Immediate binding";
+
+//FindPwdViewController.m
+"找回密码" = "Retrieve password";
+"邮箱" = "Email";
+"手机号" = "Phone number";
+"请输入已注册的邮箱" = "Please enter a registered email address";
+"请输入手机号" = "Enter your phone number";
+"验证码" = "Verification code";
+"请输入验证码" = "Please enter verification code";
+"获取验证码" = "Get verification code";
+"下一步" = "Next";
+"验证码不能为空!" = "Verification code cannot be empty!";
+"已发送(%d秒)" = "Has been sent (%d seconds)";
+"已发送(60秒)" = "Has been sent (60 seconds)";
+
+//SetPwdViewController.m
+"您已通过邮箱验证，请输入新密码" = "You have verified through the email, please enter a new password";
+"您已通过手机号验证，请输入新密码" = "You have verified through the phone number, please enter a new password";
+"新密码" = "New password";
+"确认密码" = "Confirm password";
+"重置密码" = "Reset password";
+"密码不能为空!" = "Password can not be empty!";
+"提示" = "Prompt";
+"重置密码成功， 请重新登录" = "Reset password successful, please re login";
+
+//QuickLoginViewController.m
+"快捷登录" = "Quick login";
+"登录" = "Login";
+
+//RegisterMainViewController.m
+"注册" = "Register";
+"请输入6-18位密码" = "Enter a 6-18 character password";
+"请确认密码" = "Please confirm password";
+"已有账号，立即登陆>>" = "Already account, immediately landed";
+"手机注册" = "Mobile registration";
+"两次输入密码不同" = "The two input password is different";
+
+//PhoneRegistViewController.m
+"验证码错误!" = "Verification code error!";
+
+//AuthenticationViewController.m
+"手机认证成功后可接受HR来电，还可以用来登录。" = "After the success of mobile phone authentication can accept HR calls, but also can be used to log on.";
+"你已经认证过手机号，如需更改请重新认证新手机号。" = "You have authenticated the phone number, if you want to change please recertificate the new phone number.";
+"更改手机认证" = "Change mobile phone authentication";
+"手机认证" = "Mobile phone authentication";
+"认证成功！" = "Certificate success!";
+
+//ChangePasswordViewController.m
+"旧密码" = "Old password";
+"请输入6-18位数字或字母" = "Please enter 6-18 character numbers or letters";
+"确认密码必须与新密码相同" = "Confirm that the password must be the same as the new password";
+
+//ColloctionViewController.m
+"申请的职位" = "Applied position";
+"谁关注我" = "Who pays attention to me";
+"面试邀请" = "Interview invitation";
+"我的收藏" = "My collection";
+"已下载的简历" = "Downloaded resume";
+"发起的面试邀请" = "Initiated interview invitation";
+"收藏的简历" = "Collectioned recume";
+"面试职位:%@" = "Position:%@";
+"%@ (%@ %@岁 %@ %@)" = "%@ (%@ %@age %@ %@)";
+
+//InfoViewController.m
+"姓    名" = "Name";
+"性    别" = "Gender";
+"出生日期" = "Birthday";
+"最高学历" = "Highest degree";
+"专业类别" = "Major";
+"工作年限" = "work experience";
+"现居住地" = "Current residence";
+"联系电话" = "Phone number";
+"联系邮箱" = "Email ";
+"请输入姓名" = "Please enter your name";
+"请选择出生日期" = "Please select your birthday";
+"请选择学历" = "Please select your education";
+"请选择专业" = "Please select major";
+"请选择工作年限" = "Please select work experience";
+"请选择居住地" = "Please select current residence";
+"请输入联系电话" = "Please enter phone number";
+"请输入邮箱" = "Please enter mail";
+"联系方式" = "Contact";
+"男" = "Man";
+"女" = "Woman";
+"个人资料" = "Personal data";
+"请选择性别" = "Please select the gender";
+
+//LoginViewController.m
+"请输入用户名/邮箱/手机号" = "Please enter user name/email/phone number";
+"免费注册" = "Free registration";
+"忘记密码?" = "Forget the password?";
+"使用第三方登录" = "Use third party login";
+"用户名与密码不能为空" = "User name and password can not be empty";
+"登录完成" = "Login complete";
+"登录不成功 没有获取accesstoken" = "Login unsuccessful did not get accesstoken";
+"暂无网络，请检查网络连接" = "No network, please check the network connection";
+"手机找回密码" = " Retrieve password from mobile";
+"邮箱找回密码" = " Retrieve password from email";
+"取消" = "Cancle";
+
+//MessageViewController.m
+"消息提醒" = "Message alert";
+"清空" = "Empty";
+"系统消息" = "System message";
+
+//MessageDetailViewController.m
+"删除" = "Delete";
+"删除成功" = "Delete success";
+
+//ChangeResumeViewController.m
+"刷新时间  %@" = "Refresh time %@";
+"完 整 度" = "Finishing degree";
+"个人信息" = "Profile";
+"求职意向" = "job intension";
+"自我评价" = "Self evaluation";
+"教育经历" = "Education experience";
+"工作经历" = "Work experience";
+"培训经历"= "Training experience";
+"完整" = "Complete";
+"不完整" = "Incomplete";
+"基本信息" = "Base information";
+"其他信息" = "Other information";
+"如需填写更多内容请到骑士人才系统官网完善" = "If you need to fill in more content, please go to the official website of the knight talent system to improve";
+"我的简历" = "My resume";
+"预览" = "Preview";
+
+//CreateResume2ViewController.m
+"求职状态" = "Job status";
+"工作类型" = "Job type";
+"地    区" = "District";
+"行    业" = "Industry";
+"职    能" = "Function";
+"期望薪水" = "Expected salary";
+"请选择状态" = "Please select job status";
+"请选择工作类型" = "Please select job type";
+"请选择地区" = " Please select district";
+"请选择行业" = "Please select industry";
+"请选择职能" = "Please select function";
+"请选择薪水" = "Please select expected salary";
+"保存并继续完善" = "Save and continue to improve";
+"选择地区" = "Select district";
+"选择行业" = "Select industry";
+"选择职能" = "Select function";
+
+//CreateResumeViewController.m
+"创建简历" = "Create resume";
+"姓名不能为空" = "Name cannot be empty";
+"出生日期不能为空" = "Birthday cannot be empty";
+"工作年限不能为空" = "Work experience cannot be empty";
+"现居住地不能为空" = "Current residence cannot be empty";
+"联系电话不能为空" = "Phone number cannot be empty";
+"联系邮箱不能为空" = "Email cannot be empty";
+"请输入正确的手机号" = "Please enter correct phone number";
+"请输入正确的邮箱" = "Please enter correct email";
+
+//EducationViewController.m
+"请选择开始时间" = "Please select start time";
+"请选择结束时间" = "Please select end time";
+"请输入学校" = "Please enter school";
+"请选择学历" = "Please select your education";
+"请输入专业" = "Please enter your major";
+"至今" = "Until now";
+"开始时间" = "Start time";
+"结束时间" = "End time";
+"学    校" = "School";
+"学    历" = "Education";
+"专    业" = "Major";
+
+//EducationArrayViewController.m
+"添加教育经历" = "Add education experience";
+"长按可删除教育经历" = "Long press to delete education experience";
+"添加" = "Add";
+"确定要删除当前教育经验吗？" = "Are you sure you want to delete the current education experience?";
+"确定要删除当前工作经历吗？" = "Are you sure you want to delete the current work experience?";
+"确定要删除该条培训经历吗？" = "Are you sure you want to delete this training experience?";
+"消息确认" = "Message acknowledgement";
+
+//EducationTableViewCell.m
+"%@到%@" = "%@to%@";
+
+//ChoiceIndustryViewController.mm
+"已选职能" = "Selected function";
+"已选行业" = "Selected industry";
+"已选地区" = "Selected district";
+"%d/3  展开" = "%d/3  Open";
+"定位" = "Location";
+"%d/3  收起" = "%d/3  Closed";
+
+//Preview1ViewController.m
+"这个人很懒， 什么也没有留下！" = "The man is lazy, nothing left!";
+"更新于" = "Update on";
+"%@|%d岁|%@|%@" = "%@|%dage|%@|%@";
+"现居住地：" = "Current residence:";
+"太原" = "Taiyuan";
+"求职状态：" = "Job status:";
+"  联系方式" = "Contact";
+"联系电话:" = "Contact";
+"  求职意向" = "Job search intention";
+"工作性质：" = "Working property:";
+"期望行业：" = "Expected industry:";
+"期望地点：" = "Expected location:";
+"期望薪资：" = "Expected salary:";
+"目标职能：" = "Objective function:";
+"  自我评价" = "Self evaluation";
+"  教育经历" = "Education experience";
+"%@到%@  %@" = "%@to%@  %@";
+"  工作经验" = "Work experience";
+"%@到%@  %@|%@" = "%@to%@  %@|%@";
+"  培训经历" = "Training experience";
+
+//Preview2ViewController.m
+"简历1" = "Resume1";
+"备注" = "Remarks";
+
+//Preview2ViewController.m
+"下载简历" = "Download resume";
+"已下载该简历" = "The resume has been downloaded";
+"收藏" = "Collect";
+"该种用户不能下载简历" = "This kind of user can not download resume";
+"下载成功！" = "Download success!";
+"已下载该简历" = "The resume has been downloaded";
+"该种用户不能添加备注" = "This kind of user can not add remarks";
+"符合要求" = "Meet the requirements";
+"不符合要求" = "Does not meet the requirements";
+"需要会和您联系" = "Need to be in contact with you";
+"未接通电话" = "Missed call";
+"备注简历" = "Memo resume";
+"合适" = "Appropriate";
+"不合适" = "Inappropriate";
+"待定" = "Undetermined";
+"未接通" = "Not connected";
+"添加备注成功" = "Add notes to success";
+
+//ResumeCenterView.m
+"公开" = "Public";
+"刷新时间   " = "Refresh time";
+"创建时间   " = "Create time";
+"编辑简历" = "Edit resume";
+"预览简历" = "Preview resume";
+"刷新简历" = "Refresh resume";
+"隐私设置" = "Privacy settings";
+"屏蔽企业" = "Shielding enterprise";
+"删除简历" = "Delete resume";
+"刷新时间   %@" = "Update time   %@";
+
+//ResumeCenterViewController.m
+"您还没有简历" = "You don't have a resume.";
+"填写好简历，找到适合自己的工作" = "Fill out your resume and find a job that suits you.";
+"简历中心" = "Resume Center";
+"创建" = "Create";
+"正在刷新简历..." = "Refreshing resume...";
+"隐私" = "Privacy";
+"保密" = "Secrecy";
+"只有一份简历， 不可删除！" = "Only one resume, can not be deleted!";
+"确定要删除当前简历吗？" = "Are you sure you want to delete the current resume?";
+"确认" = "Confirm";
+"最多可以创建3份简历！" = "Can create up to 3 resumes!";
+
+//SelfEvaluationViewController.m
+"输入你对自己的简短评价。请简明扼要的说明你最大的优势是什么，避免使用一些空洞老套的话。" = "Enter your brief evaluation of yourself. Please explain the concise and to the point what is your biggest advantage, avoid the use of some empty old words.";
+"资料保存失败!" = "Data save failed!";
+
+//ShieldingViewController.m
+"如果不想让某家公司看到你的公开简历，可进行屏蔽设置，最多可以设置5个公司。" = "If you do not want to let a company see your open resume, can be shielded settings, can set up to 5 companies.";
+"设置屏蔽企业" = "Set shield enterprise";
+"已经添加了5个屏蔽字段" = "Set the shield enterprise has added 5 shielding fields";
+"你确定要删除当前屏蔽企业吗？" = "Are you sure you want to delete the current shield?";
+
+//TrainViewController.m
+"培训机构" = "Training institutions";
+"培训课程" = "Training course";
+"培训内容" = "Training content";
+"请输入培训机构名称" = "Please enter the name of the training organization";
+"请输入培训课程" = "Please enter a training course";
+"请输入培训内容" = "Please enter the training content";
+"添加培训经历" = "Add training experience";
+"培训描述" = "Training description";
+"请对你的培训内容做一个简短的描述" = "Please give a brief description of your training content.";
+"已输入%lu字" = "Already input %lu words";
+
+//WordViewController.m
+"公    司" = "Company";
+"职    位" = "Job position";
+"工作职责" = "Job duties";
+"请输入公司" = "Please enter company";
+"请选择职能" = "Please select the function";
+"请输入工作职责" = "Please enter your job duties";
+"添加工作经历" = "Add work experience";
+
+//AchievementViewController.m
+"输入你对自己工作职责的简短描述" = "Enter a short description of your job responsibilities.";
+"职责介绍" = "Responsibility introduction";
+
+//UserCenterViewController.m
+"简历中心" = "Resume center";
+"修改密码" = "Modify password";
+"退出登录" = "Exit login";
+"未认证手机" = "Not certified mobile phone";
+"手机已认证" = "Mobile phone has been certified";
+
+//CutImageViewController.m
+"修剪照片" = "Trim photo";
+"拍照" = "Photograph";
+"从手机相册获取" = "Get from a mobile photo album";
+"修改简历头像" = "Modify the photot of resume";
+
+//InitData.m
+"正在加载数据..." = "Loading data...";
+"提示" = "Prompt";
+"当前网络不可用，请检查网络连接！" = "The current network is not available. Please check your network connection!";
+
+//EditResumeViewController.m
+"编辑微简历" = "Edit your resume";
+"有效期" = "Validity period";
+"延长时间" = "Extended time";
+"自我描述" = "Self description";
+"联系电话" = "Phone number";
+"管理密码" = "Manage password";
+"请选择性别" = "Please select gender";
+"请选择工作经验" = "Please select work experience";
+"请输入意向职位" = "Please enter a position of intention";
+"请选择意向地区" = "Please select the intended area";
+"请选择有效期" = "Please select a valid period";
+"请输入延长时间" = "Please enter the extension time";
+"请输入自我描述" = "Please enter a self description";
+"请输入联系电话" = "Please enter phone number";
+"请输入管理密码" = "Please enter management password";
+
+//PublicJobViewController.m
+"发布微招聘" = "Release micro recruit";
+"编辑微招聘" = "Edit micro recruit";
+"公司名称" = "Company name";
+"职位名称" = "Position name";
+"招聘人数" = "Recruitment number";
+"工作地区" = "Working area";
+"任职要求" = "Job requirements";
+"联系人" = "Contacts";
+"请输入企业名称" = "Please enter company name";
+"职位名称" = "Position name";
+"请输入招聘人数" = "Please enter recruitment number";
+"请选择工作地区" = "Please select working area";
+"请填写任职要求" = "Please enter job requirements";
+"请填写联系人" = "Please enter contacts";
+"请填写联系电话" = "Please enter contact phone";
+"请输入管理密码" = "Please enter manage password";
+
+//DistrictCenterViewController.m
+"微招聘" = "Micro recruitment";
+"微简历" = "Micro resume";
+"发布微简历" = "Release micro resume";
+"%@ (%@ %d岁 %@)" = "%@ (%@ %d age %@)";
+
+//MicroResumeViewController.m
+"编辑" = "Edit";
+"更新于%@" = "Update in%@";
+"%@|%@岁|%@" = "%@|%@age|%@";
+"意向职位：" = "Intentional position:";
+"意向地区：" = "Intentional district:";
+"联系方式" = "Contact information";
+"联系人:" = "Contacts:";
+"联系电话:" = "Contact phone:";
+
+//MicroZhaoPinViewController.m
+"浏览%d次" = "Browse%d times";
+"公司名称：" = "Company name:";
+"工作地点：" = "Working area:";
+"招聘人数:" = "Recruitment number:";
+"%d人" = "%d person";
+"职位要求" = "Job requirements";
+
+//EditJobViewController.m
+"修改职位" = "Change position";
+"职位性质" = "Position nature";
+"职位类别" = "Job category";
+"有效时间" = "Effective time";
+"学历要求" = "Education requirements";
+"联系邮箱" = "Email";
+"请输入职位名称" = "Please enter position name";
+"请选择职位性质" = "Please select position nature";
+"请选择招聘职位" = "Please select job category";
+"请选择薪资待遇" = "Please select salary";
+"请选择学历" = "Please select education requirements";
+"请选择工作经验" = "Please select work experience";
+"请输入职位描述" = "Please enter job description";
+"请输入邮箱" = "Please enter email";
+"职位描述" = "Job description";
+"职位性质分类" = "Job nature classification";
+"工作地区" = "Working area";
+
+//CompanyCenterViewController.m
+"企业中心" = "Enterprise center";
+"请输入公司名称" = "Please enter company name";
+"性质：" = "Nature:";
+"股份制企业" = "Joint stock enterprise";
+"规模：" = "Scale:";
+"20-99人" = "20-99 person";
+"行业：" = "Industry:";
+"计算机软件" = "Computer software";
+"地址：" = "Adress:";
+"北京市朝阳区太阳宫中路" = "Chaoyang District, Beijing Sun Palace Road";
+"发布职位" = "Release position";
+"管理职位" = "Manage position";
+"应聘简历" = "Apply for resume";
+"已下载的简历" = "Downloaded resume";
+"发起的面试邀请" = "Interview invitation";
+"收藏的简历" = "A collection of resumes";
+
+//EditCompanyViewController.m
+"编辑企业资料" = "Editing enterprise information";
+"企业名称" = "Enterprise name";
+"企业性质" = "Enterprise nature";
+"所属行业" = "Owned industry";
+"企业规模" = "Enterprise scale";
+"所在地区" = "Local area";
+"详细地址" = "Address in detail";
+"公司简介" = "Company profile";
+"请输入企业名称" = "Please enter the enterprise name";
+"请输入企业性质" = "Please enter enterprise nature";
+"请输入企业所属行业" = "Please enter owned industry";
+"请输入企业规模" = "Please enter enterprise scale";
+"请输入企业所在地" = "Please enter local area";
+"请输入企业详细地址" = "Please enter address in detail";
+"请输入企业介绍" = "Please enter company profile";
+
+//IntruduceViewController.m
+"请简要叙述职位的功能及要求！" = "Please briefly describe the functions and requirements of the position!";
+"请简要叙述对自己的评价。避免使用一些空洞老套的话。" = "Please briefly describe your own evaluation. Avoid the use of some empty old words.";
+"输入对公司的简要介绍。" = "Enter a brief introduction of the company.";
+
+//JobDetailViewController.m
+"详情" = "Detail";
+"职位详情" = "Position details";
+"销售管理" = "Sales management";
+"%d人投简历" = "%d people vote resume";
+"职位类别：" = "Job category:";
+"招聘条件：" = "Recruitment conditions:";
+"%@|招%d人|%@|%@" = "%@| recruit %d people|%@|%@";
+"3000-5000元/月" = "3000-5000 RMB/month";
+"联系人：" = "Contacts:";
+"联系电话：" = "phone number:";
+"联系邮箱：" = "Email:";
+"该公司的其他职位（%d）" = "Other positions in the company（%d）";
+"申请职位" = "Apply for a position";
+"电话" = "Mobile phone";
+"该种用户不能申请职位" = "This kind of user can not apply for a job";
+"选择简历" = "Select resume";
+"无法拨打联系电话！" = "Unable to dial the telephone number!";
+"该种用户不能收藏职位" = "This kind of user can not collect jobs";
+"已申请该职位" = "Have applied for the position";
+
+//ManageTableViewCell.m
+"查看" = "See";
+
+//ManageViewController.m
+"发布" = "Release";
+"应聘:%@" = "Apply for:%@";
+"%@|%@|浏览%d次" = "%@|%@| browse %d times";
+
+//OtherJobViewController.m
+"共有%d个职位正在招聘" = "A total of%d jobs are being recruited";
+"职位描述" = "Position description";
+
+//AppDelegate.m
+"初始化成功" = "Initial success";
+"初始化失败:%@" = "Initialization failed:%@";
+
+"网络请求超时，请稍后重试!" = "Network request timeout, please try again later!";
+
+//KSDefaultHeadRefreshView.m
+"下拉刷新" = "Pull down refresh";
+"松开刷新" = "Undo refresh";
+"加载中..." = "Loading...";
+"加载更多数据" = "Load more data";
+"已无更新的数据" = "No updated data";
